@@ -1,0 +1,59 @@
+.navclass{
+    background-image: url(./images/burgers.avif);
+    position: relative;
+    width:100%;
+    height: 630px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#button1{
+    position: absolute;
+    top:340px;
+    left: 610px;
+    height: 40px;
+   
+    
+}
+#divtag1{
+    font-weight: bolder;
+    position: absolute;
+    top:180px;
+    left: 440px;
+    color: rgb(255, 72, 0);
+}
+#divtag2{
+    position: absolute;
+    top:290px;
+    left: 400px;
+    color: rgb(248, 253, 249);
+}
+.gridclass{
+    width:100%;
+    height: 280px;
+    background-color: #fff;
+}
+#gridsubclass{
+   margin-top: 100px;
+}
+.aboutgridclass{
+    width:100%;
+    height: 340px;
+    background-color: #fff;
+}
+.footer{
+    background-color: rgba(50, 50, 54, 0.692);
+    width:100%;
+    height: 220px;
+   
+}
+#footersub{
+    padding-top: 30px;
+}
+.footerend{
+    padding: 9px;
+    width: 100%;
+    height: 50px;
+    background-color: rgba(50, 50, 54, 0.74);
+    width:100%;
+}
+

@@ -1,0 +1,19 @@
+#input{
+    width: 100%;
+    }
+    
+    #drop1{
+        width: 100%;
+    }
+    #div{
+        height: 600px;
+    }
+    .div2{
+        position: absolute;
+        top:180px;
+    }
+    #imgEdit{
+      width: 400px;
+      height: 350px;
+    }
+    
